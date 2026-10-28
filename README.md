@@ -1,5 +1,11 @@
 # ZELVA Interiors
 
+**Live Demo:** [zelva-interiors.vercel.app](https://zelva-interiors.vercel.app/)
+
+![ZELVA Interiors Desktop View](screenshots/desktop.png)
+
+![ZELVA Interiors Mobile View](screenshots/mobile.png)
+
 A modern, premium one-page website for **ZELVA Interiors**, a luxury interior design studio.
 
 ## Tech stack
